@@ -1,7 +1,7 @@
-*Taller de Seguimiento Grupo 02-D
+* Taller de Seguimiento Grupo 02-D
 
-**Estudiantes:
+** Estudiantes:
 
-***Edwin Viña Ramos
-***Juan Pablo Rodriguez
-***Daniel Garcia
+- Edwin Viña Ramos
+- Juan Pablo Rodriguez
+- Daniel Garcia
